@@ -1,7 +1,7 @@
 name: "Yay internet!"
 output_dir: "."
 navbar:
-  title: "Home"
+  title: "About"
   left: # Define items on the left side of the navbar
     - text: "Team"
       href: team.html
