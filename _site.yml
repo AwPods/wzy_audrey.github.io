@@ -7,7 +7,7 @@ navbar:
       href: team.html
         
   right: 
-    - text: "Results"
+    - text: "Resume"
       menu: # Keep the dropdown menu structure
         - text: "Store Density vs Household Income"
           href: store_density_and_household_income.html
