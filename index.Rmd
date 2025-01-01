@@ -1,5 +1,5 @@
 ---
-title: "Food Access & Food Justice in NYC"
+title: "About Me"
 output: 
   html_document:
     code_folding: hide
@@ -11,16 +11,8 @@ editor_options:
 
 <br>
 
-### Welcome to Food Sources
+### Hi!
 
-```{r setup, include=FALSE}
-library(flexdashboard)
-library(tidyverse)
-library(leaflet)
+I’m Zhiyu (Audrey) Wei, a Master of Public Health candidate at Columbia University’s Mailman School of Public Health, specializing in applied biostatistics. With a background in biochemistry and advanced skills in statistical modeling and geospatial analysis, I focus on leveraging data to address public health challenges.
 
-knitr::opts_chunk$set(
-  echo = TRUE,
-  warning = FALSE,
-  message = FALSE
-)
-```
+My research explores topics like food equity, housing disparities, and environmental health, using tools like R, SQL, and QGIS to analyze complex datasets and create actionable insights. I’m passionate about applying data-driven approaches to promote health equity and inform public health policy. 
