@@ -30,13 +30,12 @@ navbar:
     - text: "Project Report"
       href: Report.html
     - icon: fa-envelope fa-lg
-      href: mailto:fw2394@cumc.columbia.edu, cm3341@cumc.columbia.edu, tc3326@cumc.columbia.edu, scs2267@cumc.columbia.edu, zw2975@cumc.columbia.edu
+      href: mailto:zw2975@cumc.columbia.edu zwei2023@outlook.com
     - icon: fa-github fa-lg
-      href: https://github.com/bublyGudo/team_project.github.io
+      href: https://github.com/awpods
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/audreywei
+ 
 output:
   html_document:
     theme: readable
-
-# 1. I can create a dropdown list in this file.
-# 2. I can change the positions of tabs in my website using this file.
-# 3. I can change themes of the website by changing the last code "theme:"(ShinyThemes Gallery: https://rstudio.github.io/shinythemes/)
