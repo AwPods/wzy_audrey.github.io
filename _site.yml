@@ -30,7 +30,7 @@ navbar:
     - text: "Project Report"
       href: Report.html
     - icon: fa-envelope fa-lg
-      href: mailto:zw2975@cumc.columbia.edu zwei2023@outlook.com
+      href: mailto:zw2975@cumc.columbia.edu, zwei2023@outlook.com
     - icon: fa-github fa-lg
       href: https://github.com/awpods
     - icon: fa-linkedin fa-lg
