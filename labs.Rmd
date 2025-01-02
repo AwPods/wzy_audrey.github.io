@@ -7,7 +7,7 @@ output:
     number_sections: false
 ---
 
-## Biochemistry Wet Labs
+## Wet Lab Reports
 
 <br>
 
