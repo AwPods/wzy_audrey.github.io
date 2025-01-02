@@ -1,0 +1,18 @@
+---
+title: "Biochemsitry Lab Reports"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+editor_options: 
+  chunk_output_type: console
+---
+
+<br>
+
+#### [Insertion of Target DNA in Vector and Performing DNA Sequencing Using Transformed Bacteria](files/projects/Insertion of DNA in Vector.pdf)
+
+<br>
+
+####
+
