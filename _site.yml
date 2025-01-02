@@ -7,7 +7,7 @@ navbar:
       href: files/Zhiyu Wei Resume (2025).pdf
         
   right: 
-    - text: "Resume"
+    - text: "Food Justice Project"
       menu: # Keep the dropdown menu structure
         - text: "Store Density vs Household Income"
           href: store_density_and_household_income.html
