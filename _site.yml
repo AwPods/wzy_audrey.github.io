@@ -9,19 +9,13 @@ navbar:
   right: 
     - text: "Food Justice Project"
       href: https://bublygudo.github.io/team_project.github.io/index.html
-    - text: "Walkability"
+    - text: "Projects"
       menu:
         - text: "ShinyApp: Walkability"
           href: https://bublygudo.shinyapps.io/walkable/
         - text: "Walkability Summary"
           href: walkability_summary.html
-    - text: "Data Sources"
-      menu:
-      - text: "Data Sources"
-        href: data_source.html
-      - text: "Data Cleaning"
-        href: data_cleaning.html
-    - text: "Project Report"
+    - text: "Lab Works"
       href: Report.html
     - icon: fa-envelope fa-lg
       href: mailto:zw2975@cumc.columbia.edu, zwei2023@outlook.com
