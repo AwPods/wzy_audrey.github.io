@@ -14,5 +14,12 @@ editor_options:
 
 <br>
 
-####
+#### [Measuring the Activity of Lactate Dehydrogenase Obtained from Purified Muscle Protein](files/projects/MeasuringtheActivityofLactateDehydrogenaseObtainedfromPurifiedMuscleProtein.pdf)
+
+<br>
+
+#### [Utilizing Specificity of Immune Response to Analyze Subunits of IgY](files/projects/ELISA Analysis.pdf)
+
+[ELISA steps visual](files/projects/ELISAstepvisual.pdf)
+
 
