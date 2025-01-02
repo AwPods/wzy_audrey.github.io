@@ -11,12 +11,14 @@ navbar:
       menu:
         - text: "Food Justice in NYC"
           href: https://bublygudo.github.io/team_project.github.io/index.html
-        - text: "HEATE Seek"
-          href: files/projects/HEATEFactSheet.docx
+        - text: "HEATE SEEK"
+          href: files/projects/HEATE SEEK.pdf
         - text: "Food Scarcity and Health Equity"
           href: https://bublygudo.shinyapps.io/walkable/
         - text: "PFAS levels and total cholesterol"
-          href: files/projects/
+          href: files/projects/PFAS cholesterol project.pdf
+        - text: "Steam Game Popularity Analysis"
+          href: Steam Game Data Anlysis.pdf
     - text: "Biochemistry Labs"
       href: labs.html
     - icon: fa-envelope fa-lg
