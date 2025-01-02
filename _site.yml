@@ -18,7 +18,7 @@ navbar:
         - text: "PFAS levels and total cholesterol"
           href: files/projects/PFAS cholesterol project.pdf
         - text: "Steam Game Popularity Analysis"
-          href: Steam Game Data Analysis.pdf
+          href: files/projects/Steam Game Data Analysis.pdf
     - text: "Wet Labs"
       href: labs.html
     - icon: fa-envelope fa-lg
