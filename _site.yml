@@ -1,9 +1,9 @@
-name: "Yay internet!"
+name: "My Personal Website"
 output_dir: "."
 navbar:
   title: "About"
   left: # Define items on the left side of the navbar
-    - text: "Team"
+    - text: "Resume"
       href: team.html
         
   right: 
