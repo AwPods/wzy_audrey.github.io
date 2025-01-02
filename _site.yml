@@ -19,7 +19,7 @@ navbar:
           href: files/projects/PFAS cholesterol project.pdf
         - text: "Steam Game Popularity Analysis"
           href: Steam Game Data Anlysis.pdf
-    - text: "Biochemistry Labs"
+    - text: "Wet Labs"
       href: labs.html
     - icon: fa-envelope fa-lg
       href: mailto:zw2975@cumc.columbia.edu, zwei2023@outlook.com
