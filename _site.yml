@@ -6,17 +6,19 @@ navbar:
     - text: "Resume"
       href: files/Zhiyu Wei Resume (2025).pdf
         
-  right: 
-    - text: "Food Justice Project"
-      href: https://bublygudo.github.io/team_project.github.io/index.html
-    - text: "Research Projects"
+    right: 
+    - text: "Research and Data Analysis Projects"
       menu:
+        - text: "Food Justice in NYC"
+          href: https://bublygudo.github.io/team_project.github.io/index.html
+        - text: "HEATE Seek"
+          href: files/projects/HEATEFactSheet.docx
         - text: "Food Scarcity and Health Equity"
           href: https://bublygudo.shinyapps.io/walkable/
-        - text: "P30 Heate"
-          href: walkability_summary.html
-    - text: "Lab Works"
-      href: lab works.html
+        - text: "PFAS levels and total cholesterol"
+          href: files/projects/
+    - text: "Biochemistry Labs"
+      href: labs.html
     - icon: fa-envelope fa-lg
       href: mailto:zw2975@cumc.columbia.edu, zwei2023@outlook.com
     - icon: fa-github fa-lg
