@@ -6,7 +6,7 @@ navbar:
     - text: "Resume"
       href: files/Zhiyu Wei Resume (2025).pdf
         
-    right: 
+  right: 
     - text: "Research and Data Analysis Projects"
       menu:
         - text: "Food Justice in NYC"
