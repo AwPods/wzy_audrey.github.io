@@ -11,8 +11,8 @@ navbar:
       menu:
         - text: "Food Justice in NYC"
           href: https://bublygudo.github.io/team_project.github.io/index.html
-        - text: "Food Scarcity and Health Equity"
-          href: https://bublygudo.shinyapps.io/walkable/
+        - text: "Food Scarcity and Health Outcomes"
+          href: files/projects/Final Poster.pdf
         - text: "HEATE SEEK"
           href: files/projects/HEATE SEEK.pdf
         - text: "PFAS levels and total cholesterol"
