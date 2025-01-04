@@ -4,7 +4,7 @@ navbar:
   title: "About"
   left: # Define items on the left side of the navbar
     - text: "Resume"
-      href: files/Zhiyu Wei Resume (2025).pdf
+      href: files/Zhiyu Wei Resume 2025.pdf
         
   right: 
     - text: "Research and Data Analysis Projects"
