@@ -15,14 +15,20 @@ output:
 
 #### [Insertion of Target DNA in Vector and Performing DNA Sequencing Using Transformed Bacteria](files/projects/Insertion of DNA in Vector.pdf)
 
+<img src="files/images/vector insertion.png" style="width:60%;">
+
 <br>
 
 #### [Measuring the Activity of Lactate Dehydrogenase Obtained from Purified Muscle Protein](files/projects/MeasuringtheActivityofLactateDehydrogenaseObtainedfromPurifiedMuscleProtein.pdf)
+
+<img src="files/images/lactate dehydrogenase.jpg" style="width:60%;">
 
 <br>
 
 #### [Utilizing Specificity of Immune Response to Analyze Subunits of IgY](files/projects/ELISA Analysis.pdf)
 
 [ELISA steps visual](files/projects/ELISAstepvisual.pdf)
+
+<img src="files/images/ELISA.jpeg" style="width:60%;">
 
 
